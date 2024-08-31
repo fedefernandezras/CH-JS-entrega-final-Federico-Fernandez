@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Como crear un personaje",
+    "categoria": "primeros pasos",
+    "texto": "./img/3.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Subiendo de nivel y clases",
+    "categoria": "primeros pasos",
+    "texto": "./img/4.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Reglas de combate cuerpo a cuerpo",
+    "categoria": "combate",
+    "texto": "./img/5.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Reglas de combate a distancia",
+    "categoria": "combate",
+    "texto": "./img/6.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Como utilizar objetos",
+    "categoria": "equipamento",
+    "texto": "./img/7.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Equipa tu personaje",
+    "categoria": "equipamento",
+    "texto": "./img/8.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Como hablar con otros personajes",
+    "categoria": "interactuando",
+    "texto": "./img/9.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Como realizar prueba de habilidad",
+    "categoria": "interactuando",
+    "texto": "./img/10.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Reglas de movimiento en mapa",
+    "categoria": "explorar el mapa",
+    "texto": "./img/11.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Explora sitios de interes",
+    "categoria": "explorar el mapa",
+    "texto": "./img/12.jpg"
+  }
+]

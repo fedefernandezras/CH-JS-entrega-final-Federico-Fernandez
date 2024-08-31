@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "d&d - manual de monstruos",
+    "precio": 55000,
+    "stock": 2,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "d&d - manual de jugador",
+    "precio": 65000,
+    "stock": 5,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "d&d - manual para master",
+    "precio": 70000,
+    "stock": 1,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "pathfinder - rule of fear",
+    "precio": 50000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp1.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "pathfinder - artifacts",
+    "precio": 76000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp2.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "pathfinder - lost treasures",
+    "precio": 85000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp3.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "CoC - Pulp Cthulhu",
+    "precio": 85000,
+    "stock": 5,
+    "categoria": "Call of Cthulhu",
+    "texto": "../img/tl1.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "CoC - guia del guardian",
+    "precio": 85000,
+    "stock": 5,
+    "categoria": "Call of Cthulhu",
+    "texto": "../img/tl2.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "d&d - guia de xanathar",
+    "precio": 70000,
+    "stock": 5,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual4.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "d&d - el caldero de tasha",
+    "precio": 70000,
+    "stock": 5,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual5.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "d&d - sword coast",
+    "precio": 100000,
+    "stock": 5,
+    "categoria": "dungeons & dragons",
+    "texto": "../img/manual6.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "CoC - guia del investigador",
+    "precio": 85000,
+    "stock": 5,
+    "categoria": "Call of Cthulhu",
+    "texto": "../img/manual7.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "pathfinder - core rulebox",
+    "precio": 150000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp4.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "pathfinder - bestiario",
+    "precio": 57000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp5.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "pathfinder - gamemastery",
+    "precio": 53000,
+    "stock": 5,
+    "categoria": "pathfinder",
+    "texto": "../img/manualp6.jpg"
+  }
+]
